@@ -1,0 +1,9 @@
+simulator/.idea
+simulator/.vscode
+simulator/.env
+
+k8s/backend/configmap.yaml
+k8s/simulator/configmap.yaml
+
+apache-kafka/data
+apache-kafka/es01
